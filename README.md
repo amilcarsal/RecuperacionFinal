@@ -1,6 +1,7 @@
-# RecuperacionFinal
+## RecuperacionFinal
  
-#onfiguracion de la base de datos
+ onfiguracion de la base de datos
+
 CREATE TABLE clients (
     id SERIAL PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
